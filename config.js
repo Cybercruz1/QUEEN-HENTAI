@@ -4,10 +4,10 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
-
-
-global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
+builder name
+thunder Cruz
+global.owner = [ magumba asuman
+  ['+256075119374', 'cruz Official²⁰²³', true],
   ['94767939688', 'Dinuwa Official²⁰²³', true], 
   [''] 
 ] //Number of owners
