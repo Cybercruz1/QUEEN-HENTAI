@@ -5,7 +5,7 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
 builder name
-thunder Cruz
+thunder Cruz.
 global.owner = [ magumba asuman
   ['+256075119374', 'cruz Official²⁰²³', true],
   ['94767939688', 'Dinuwa Official²⁰²³', true], 
